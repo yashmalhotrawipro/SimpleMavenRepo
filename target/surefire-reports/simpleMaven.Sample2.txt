@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: simpleMaven.Tc2
+Test set: simpleMaven.Sample2
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 s - in simpleMaven.Tc2
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.158 s - in simpleMaven.Sample2

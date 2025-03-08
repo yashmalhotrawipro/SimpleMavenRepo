@@ -5,7 +5,7 @@ package simpleMaven;
 import org.junit.After;
 import org.junit.Test;
 
-public class TC3 {
+public class Sample2 {
 
 	@After
 	public void tearDown() throws Exception {
@@ -13,7 +13,7 @@ public class TC3 {
 
 	@Test
 	public void test() {
-		System.out.println("Tc3 running");
+		System.out.println("Sample test case 2");
 	}
 
 }
